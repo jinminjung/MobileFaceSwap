@@ -1,0 +1,6 @@
+paddlepaddle==2.6.1
+insightface==0.2.1
+opencv-python
+numpy
+protobuf==3.20.*
+onnxruntime
